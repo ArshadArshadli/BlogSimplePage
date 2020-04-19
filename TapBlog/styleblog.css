@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro&display=swap');
+/*Rəng kodları: Boz rəng çaları: #bdc3c7, mavi rəng: #3498db  h1 #283343 #77898E*/
+h1
+{
+
+font-family: 'Source Sans Pro', sans-serif;
+color: #283343;
+}
+.blog-txt
+{
+	font-style:;
+	font-size: ;
+	color: 
+	font-family: 'Source Sans Pro', sans-serif;
+}
+.blog-container
+{
+width: 600px;
+height: 82vh;
+background-color: white;
+margin: 0px auto;
+border:25px solid #bdc3c7;
+padding: 20px;
+padding-bottom: 50px;
+
+}
+.tarix
+{
+	
+
+	color:#3498db;	
+	font-weight:400;
+	letter-spacing: 2px;
+	text-align: center;
+	font-family: 'Source Sans Pro', sans-serif;
+
+}
+.pragraph-xet
+{
+	height:50px;
+	width: 4px;
+	background-color:#bdc3c7;
+	display: inline-block;
+}
+.p1
+{
+    width:580px;
+	display: inline-block;
+
+}
+p
+{
+	font-family: 'Source Sans Pro', sans-serif;
+}
